@@ -1,0 +1,26 @@
+{
+  "entryId": "entry-fresh-perspective",
+  "title": "A fresh perspective",
+  "transcriptText": "Walking past the reservoir before sunrise always resets my pacing. This is a beautiful day to build something meaningful, especially when the first hour belongs to thinking rather than reacting.\n“Clarity rarely arrives in a crowded room; it waits patiently on the ridge where you finally stop checking the clock.”\nI want to keep the studio notebook calm, tactile, and fiercely private—a place where spoken thoughts feel worth revisiting months later.",
+  "segments": [
+    {
+      "id": "seg-1",
+      "startMs": 0,
+      "endMs": 5600,
+      "text": "Walking past the reservoir before sunrise always resets my pacing."
+    },
+    {
+      "id": "seg-2",
+      "startMs": 5600,
+      "endMs": 11800,
+      "text": "This is a beautiful day to build something meaningful, especially when the first hour belongs to thinking rather than reacting."
+    },
+    {
+      "id": "seg-3",
+      "startMs": 11800,
+      "endMs": 18000,
+      "text": "I want to keep the studio notebook calm, tactile, and fiercely private—a place where spoken thoughts feel worth revisiting months later."
+    }
+  ],
+  "updatedAt": "2026-11-24T08:42:00.000Z"
+}

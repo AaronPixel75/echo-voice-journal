@@ -1,0 +1,6 @@
+{
+  "name": "ECHO",
+  "description": "An immersive, offline-first personal voice journal and editorial notebook.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

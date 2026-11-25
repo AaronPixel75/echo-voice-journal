@@ -1,0 +1,20 @@
+{
+  "entryId": "entry-crossroads-trail",
+  "title": "Evening walk on the ridge trail",
+  "transcriptText": "Stopped at the wooden signpost above the valley as the light turned amber. Not every fork in the road needs an immediate answer; sometimes naming the two paths out loud is enough to calm the noise.",
+  "segments": [
+    {
+      "id": "seg-41",
+      "startMs": 0,
+      "endMs": 7500,
+      "text": "Stopped at the wooden signpost above the valley as the light turned amber."
+    },
+    {
+      "id": "seg-42",
+      "startMs": 7500,
+      "endMs": 15000,
+      "text": "Not every fork in the road needs an immediate answer; sometimes naming the two paths out loud is enough to calm the noise."
+    }
+  ],
+  "updatedAt": "2026-11-18T17:50:00.000Z"
+}

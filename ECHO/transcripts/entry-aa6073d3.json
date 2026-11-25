@@ -1,0 +1,15 @@
+{
+  "entryId": "entry-aa6073d3",
+  "title": "Testing live recording-first audio capture and waveform…",
+  "transcriptText": "Testing live recording-first audio capture and waveform visualization.",
+  "segments": [
+    {
+      "id": "seg-f20f2e",
+      "startMs": 0,
+      "endMs": 1600,
+      "text": "Testing live recording-first audio capture and waveform visualization.",
+      "confidence": 0.94
+    }
+  ],
+  "updatedAt": "2026-11-24T22:35:26.861Z"
+}

@@ -1,0 +1,26 @@
+{
+  "entryId": "entry-ideas-future",
+  "title": "Ideas for the future",
+  "transcriptText": "Big idea: Recording-first memory safety\nWhenever software handles personal voice notes, the original audio must be treated as sacred. Never wait on transcription before committing audio to disk.\nWrite raw PCM chunks continuously so a crash never erases a thought.\nKeep a persistent SQLite queue that survives restarts and retries cleanly.\nLet word-level highlighting turn fleeting speech into lasting editorial notes.",
+  "segments": [
+    {
+      "id": "seg-21",
+      "startMs": 0,
+      "endMs": 5400,
+      "text": "Whenever software handles personal voice notes, the original audio must be treated as sacred."
+    },
+    {
+      "id": "seg-22",
+      "startMs": 5400,
+      "endMs": 10800,
+      "text": "Never wait on transcription before committing audio to disk. Write raw chunks continuously so a crash never erases a thought."
+    },
+    {
+      "id": "seg-23",
+      "startMs": 10800,
+      "endMs": 16000,
+      "text": "Let word-level highlighting turn fleeting speech into lasting editorial notes."
+    }
+  ],
+  "updatedAt": "2026-11-23T19:15:00.000Z"
+}

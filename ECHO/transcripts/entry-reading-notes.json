@@ -1,0 +1,20 @@
+{
+  "entryId": "entry-reading-notes",
+  "title": "Notes on slow reading",
+  "transcriptText": "Finished chapter four with a warm cup of coffee beside the window. Physical paper remembers where your attention lingered—a dog-eared corner, a yellow highlight, a margin note in pencil.\nDigital journals usually flatten everything into uniform rows. Giving quotes real breathing room changes how you remember your own life.",
+  "segments": [
+    {
+      "id": "seg-31",
+      "startMs": 0,
+      "endMs": 7200,
+      "text": "Finished chapter four with a warm cup of coffee beside the window. Physical paper remembers where your attention lingered."
+    },
+    {
+      "id": "seg-32",
+      "startMs": 7200,
+      "endMs": 14000,
+      "text": "Digital journals usually flatten everything into uniform rows. Giving quotes real breathing room changes how you remember your own life."
+    }
+  ],
+  "updatedAt": "2026-11-21T14:20:00.000Z"
+}
